@@ -2,7 +2,7 @@
 {-# LANGUAGE NoImplicitPrelude #-}
 {-# LANGUAGE OverloadedStrings #-}
 
-[-# Joseph Shin's Comment #-}
+{-# Joseph Shin's Comment #-}
 
 #ifdef USE_GIT_INFO
 {-# LANGUAGE TemplateHaskell #-}
